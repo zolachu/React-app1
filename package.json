@@ -1,0 +1,21 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run dev",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zolachu/React-app1.git"
+  },
+  "author": "zola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zolachu/React-app1/issues"
+  },
+  "homepage": "https://github.com/zolachu/React-app1#readme"
+}
